@@ -40,7 +40,7 @@ Trabajo principalmente con **Java, Spring Boot, MySQL y Thymeleaf**, y me intere
 | **Pagina Web**  | Página realizada para entregar información sobre ciberseguridad | Completo | [GitHub](https://github.com/Brian-EPJ/registro_compras) / [Online](https://brian-epj.github.io/Evaluacion_Modulo_1/index.html) |
 | **Página Web para banda**       | Página Web desarrollada para una banda musical | Completo | [GitHub](https://github.com/Brian-EPJ/banda_musica) / [Online](#) |
 | **API REST** | API Este servicio permite administrar productos con las operaciones básicas: | Completo | [GitHub](https://github.com/Brian-EPJ/M6_Evaluacion)   |
-| **Registro basico de compras**  | Pagina basica hecha con html para guardar un registro de compra  | Completo | [GitHub](https://github.com/Brian-EPJ/registro_compras) / [Online](https://brian-epj.github.io/registro_compras/)) |
+| **Registro basico de compras**  | Pagina basica hecha con html para guardar un registro de compra  | Completo | [GitHub](https://github.com/Brian-EPJ/registro_compras) / [Online](https://brian-epj.github.io/registro_compras/) |
 
 ---
 
