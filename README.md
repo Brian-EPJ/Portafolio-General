@@ -36,10 +36,10 @@ Trabajo principalmente con **Java, Spring Boot, MySQL y Thymeleaf**, y me intere
 
 | Proyecto | Descripción | Estado | Enlace |
 |----------|-------------|--------|--------|
-| **Gestión de Autores y Libros** | CRUD de autores y libros con Spring Boot y Thymeleaf | Completo | [GitHub](https://github.com/Brian-EPJ/Biblioteca) / [Online](#) |
+| **Gestión de Autores y Libros** | CRUD de autores y libros con Spring Boot y Thymeleaf | Completo | [GitHub](https://github.com/Brian-EPJ/Biblioteca) /  |
 | **Pagina Web**  | Página realizada para entregar información sobre ciberseguridad | Completo | [GitHub](https://github.com/Brian-EPJ/registro_compras) / [Online](https://brian-epj.github.io/Evaluacion_Modulo_1/index.html) |
 | **Página Web para banda**       | Página Web desarrollada para una banda musical | Completo | [GitHub](https://github.com/Brian-EPJ/banda_musica) / [Online](#) |
-| **API REST** | API Este servicio permite administrar productos con las operaciones básicas: | Completo | [GitHub](https://github.com/Brian-EPJ/M6_Evaluacion) / [Online](#) |
+| **API REST** | API Este servicio permite administrar productos con las operaciones básicas: | Completo | [GitHub](https://github.com/Brian-EPJ/M6_Evaluacion) /  |
 
 ---
 
